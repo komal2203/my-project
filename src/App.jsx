@@ -13,7 +13,7 @@ const App = () => {
       <AppBanner />
       <Footer />
     </div>
-  );cd 
+  );
 };
 
 export default App;
